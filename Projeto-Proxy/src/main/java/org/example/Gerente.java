@@ -10,14 +10,6 @@ public class Gerente {
         this.administrador = administrador;
     }
 
-    public String getNome() {
-        return nome;
-    }
-
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
-
     public boolean isAdministrador() {
         return administrador;
     }
